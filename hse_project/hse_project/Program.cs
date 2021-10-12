@@ -14,6 +14,7 @@ namespace hse_project
             Console.WriteLine("Nice to meet you :)");
             Console.WriteLine("alo alo, Marina will go for a walk?))");
             Console.WriteLine("Yaaasssss!!");
+            Console.WriteLine("It's a good weather today...");
         }
     }
 }
