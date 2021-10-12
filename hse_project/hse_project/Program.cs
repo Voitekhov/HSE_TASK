@@ -11,6 +11,7 @@ namespace hse_project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, my name is Sasha Pestova");
+            Console.WriteLine("Nice to meet you :)");
         }
     }
 }
