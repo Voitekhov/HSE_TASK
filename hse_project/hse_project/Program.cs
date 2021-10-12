@@ -13,6 +13,7 @@ namespace hse_project
             Console.WriteLine("Hello, my name is Sasha Pestova");
             Console.WriteLine("Nice to meet you :)");
             Console.WriteLine("alo alo, Marina will go for a walk?))");
+            Console.WriteLine("Yaaasssss!!");
         }
     }
 }
