@@ -8,13 +8,16 @@ namespace hse_project
 {
     class Program
     {
+        public static int sum (int a, int b)
+            {
+                return a+b;
+            }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, my name is Sasha Pestova");
-            Console.WriteLine("Nice to meet you :)");
-            Console.WriteLine("alo alo, Marina will go for a walk?))");
-            Console.WriteLine("Yaaasssss!!");
-            Console.WriteLine("It's a good weather today...");
+            Console.WriteLine(sum(5, 3));
+
+            Console.ReadKey();
         }
     }
 }
