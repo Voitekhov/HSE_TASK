@@ -12,7 +12,7 @@ namespace hse_project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, my name is Sasha Pestova");
-            
+            Console.WriteLine("Summa=8");
             Console.ReadKey();
         }
     }
