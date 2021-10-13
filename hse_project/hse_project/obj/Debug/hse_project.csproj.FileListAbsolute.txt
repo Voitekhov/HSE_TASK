@@ -1,0 +1,7 @@
+C:\Users\Александра\Documents\GitHub\HSE_TASK\hse_project\hse_project\bin\Debug\hse_project.exe.config
+C:\Users\Александра\Documents\GitHub\HSE_TASK\hse_project\hse_project\bin\Debug\hse_project.exe
+C:\Users\Александра\Documents\GitHub\HSE_TASK\hse_project\hse_project\bin\Debug\hse_project.pdb
+C:\Users\Александра\Documents\GitHub\HSE_TASK\hse_project\hse_project\obj\Debug\hse_project.csprojAssemblyReference.cache
+C:\Users\Александра\Documents\GitHub\HSE_TASK\hse_project\hse_project\obj\Debug\hse_project.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Documents\GitHub\HSE_TASK\hse_project\hse_project\obj\Debug\hse_project.exe
+C:\Users\Александра\Documents\GitHub\HSE_TASK\hse_project\hse_project\obj\Debug\hse_project.pdb
